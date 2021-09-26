@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [Алексей Понибрашин](https://up.htmlacademy.ru/htmlcss/32/user/1911269).
-* Наставник: `Неизвестно`.
+- Студент: [Алексей Понибрашин](https://up.htmlacademy.ru/htmlcss/32/user/1911269).
+- Наставник: [Евгений Котов](https://htmlacademy.ru/profile/evgeniy_kotov).
 
 ---
 
